@@ -1,6 +1,6 @@
 *.npy
 *.pyc
-
+*.pkl
 
 data/
 log_dir/

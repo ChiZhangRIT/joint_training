@@ -1,0 +1,9 @@
+*.npy
+*.pyc
+
+
+data/
+log_dir/
+model/
+
+
